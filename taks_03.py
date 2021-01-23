@@ -1,3 +1,4 @@
+# for pull request.
 def my_func(num_1, num_2, num_3):
     return num_1 + num_2 + num_3 - min(num_1, num_2, num_3)
 

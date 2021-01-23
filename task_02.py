@@ -1,3 +1,4 @@
+# for pull request
 def user_info(name, surname, date_of_birth, city, email, phone):
     print(f'User info: {name}, {surname}, {date_of_birth}, {city}, {email}, {phone}')
 

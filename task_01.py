@@ -1,3 +1,4 @@
+# for pull request
 number_1 = int(input('Введите делимое: '))
 number_2 = int(input('Вдедите делитель: '))
 

@@ -1,3 +1,4 @@
+# for pull request
 #первая часть
 def int_func1(word):
     return ''.join([word[0].upper(), word[1:]])
